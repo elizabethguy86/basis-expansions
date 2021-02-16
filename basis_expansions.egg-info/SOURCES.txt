@@ -1,0 +1,9 @@
+README.md
+setup.py
+basis_expansions/__init__.py
+basis_expansions/basis_expansions.py
+basis_expansions.egg-info/PKG-INFO
+basis_expansions.egg-info/SOURCES.txt
+basis_expansions.egg-info/dependency_links.txt
+basis_expansions.egg-info/requires.txt
+basis_expansions.egg-info/top_level.txt
